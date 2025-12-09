@@ -13,6 +13,7 @@ A machine learning project predicting bilateral trade flows between countries us
 ## Graphs
 The plots below summarize the trade flow distribution and top trading pairs with ISO country codes.
 
+<img src="https://raw.githubusercontent.com/samuel-asefa/GlobalTradeModel/refs/heads/main/graphs/Figure_1.png" width="500">
 
 
 ## Quick Start
