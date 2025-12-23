@@ -1,4 +1,4 @@
-<h2 align="center"><em><code>Global Trade Model</code></em></h2>
+<h2 align="center"><em><code>Global Trade Prediction Model</code></em></h2>
 
 A machine learning project predicting bilateral trade flows between countries using economic indicators, geographic factors, and policy variables.
 
